@@ -1,8 +1,35 @@
 # Data-Visualization
 
-This project showcases the different data visualization tasks using the "Books_Data" csv file.
-The data visualizations showcase:
-1. Top 10 highest rated books
-2. Distribution of dales across genres
-3. Fiction genre sales over the years
-4. Relationship between book ratings and sales
+📌 Overview
+
+This project demonstrates data visualization techniques using Python. The notebook explores how to effectively represent data using various plotting libraries. The aim is to showcase skills in creating insightful, clear, and visually appealing charts that help interpret and communicate patterns in datasets.
+
+⚙️ Features
+
+- Loading and preparing datasets for visualization
+
+- Creating basic plots (line, bar, scatter, histogram)
+
+- Using Matplotlib and Seaborn for statistical graphics
+
+- Customizing plots with labels, titles, legends, and styles
+
+- Exploring relationships and trends in data visually
+
+🛠️ Tech Stack
+
+- Python 3.8+
+
+- Matplotlib – data visualization
+
+- Seaborn – statistical data visualization
+
+- pandas – data manipulation
+
+- Jupyter Notebook – interactive coding and plotting
+
+Developed by Lumko Mtengwane
+
+📧 mtengwanelumko@gmail.com
+
+🌐 www.linkedin.com/in/lumkomds-7a387820a
